@@ -9,7 +9,6 @@ var bodyParser = require('body-parser');
 var swig = require('swig');
 
 var routes = require('./routes/index');
-var users = require('./routes/user');
 
 var app = express();
 
